@@ -12,7 +12,7 @@ A practical, 7-step debugging checklist for PyTorch neural networks that actuall
 
 ### Original Article
 Read the full blog post here:  
-🔗 [https://emitechlogic.com/neural-network-not-learning-a-7-step-debugging-checklist-that-actually-works/](https://emitechlogic.com/neural-network-not-learning-a-7-step-debugging-checklist-that-actually-works/)
+🔗 [https://emitechlogic.com/pytorch-debugging-checklist-a-systematic-framework-to-fix-models-that-wont-learn/](https://emitechlogic.com/pytorch-debugging-checklist-a-systematic-framework-to-fix-models-that-wont-learn/)
 
 ### Features
 - Check 1: Data Pipeline Sanity  
@@ -46,10 +46,10 @@ If you use this checklist or code in your research, project, or article, please 
   author       = {Emmimal P Alexander},
   title        = {Neural Network Not Learning? The Ultimate Debugging Checklist},
   year         = {2026},
-  howpublished = {\url{https://emitechlogic.com/neural-network-not-learning-a-7-step-debugging-checklist-that-actually-works/}},
+  howpublished = {\url{https://emitechlogic.com/pytorch-debugging-checklist-a-systematic-framework-to-fix-models-that-wont-learn/}},
   note         = {GitHub Repository: pytorch-debugging-checklist}
 }
 ```
 
 ### APA Style:
-Emmimal P. Alexander. (2026). Neural Network Not Learning? The Ultimate Debugging Checklist. https://emitechlogic.com/neural-network-not-learning-a-7-step-debugging-checklist-that-actually-works/
+Emmimal P. Alexander. (2026). Neural Network Not Learning? The Ultimate Debugging Checklist. [https://emitechlogic.com/pytorch-debugging-checklist-a-systematic-framework-to-fix-models-that-wont-learn/](https://emitechlogic.com/pytorch-debugging-checklist-a-systematic-framework-to-fix-models-that-wont-learn/)
