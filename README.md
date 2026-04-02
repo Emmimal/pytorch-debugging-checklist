@@ -37,7 +37,7 @@ python debugging_checklist.py
 - PyTorch 2.x
 - torchvision
 - matplotlib
-
+```
 ### How to Cite This Work
 
 If you use this checklist or code in your research, project, or article, please cite it as:
